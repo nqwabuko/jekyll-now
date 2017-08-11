@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Charlie and Charlie Creations is what I hope will grow into something people know about and like reading. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a chemistry graduate wanting to learn more about __Git__ and the coding world and connect it with my curiosity in electronics and green energy and newly, electric vehicles. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[stjohnnquwabuku@hotmail.co.uk](mailto:stjohnnquwabuku@hotmail.co.uk)
