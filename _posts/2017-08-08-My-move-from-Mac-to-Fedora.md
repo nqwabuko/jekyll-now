@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-#### Intro
+### Intro
 
 So this is something I been wanting to write for so long and have never had the time or the proper know-how. I am getting closer to that now and I want to start. This will be piece meal in the beginning as I try get myself writing everyday. 
 
@@ -11,7 +11,7 @@ Just to give my post a general end goal, I want to show how nice the Fedora dist
 
 To end off this intro I basically want to say that I hope you enjoy reading my musings on this change in my lifestyle, because I think a computer is part of your life. We communicate through them, we view information through them, and for many we rely on them. 
 
-#### Fedora as an OS with Gnome
+### Fedora as an OS with Gnome
 
 I should clarify that I mean __Fedora 26 workstation__ with Gnome Version **3.24.2**. I want to address what I consider an OS. Sure everyone, well not all but most, know that an OS is the operating system of the machine. I just want to indicate that when you commit to an OS, you commit to a whole bunch of things. Now for developers and the like they will laugh at me for trying to define all this but I also want to reach people who are not overly tech savvy and want to read about tech in a way that it is nice to read. To do that, sorry tech guys, I have to write in a 'friendlier' way. When you choose an OS you choose a lot of stuff that is under the hood, you choose a lot of things like the policies that govern the developers and the background of the company or individuals that run and maintain that OS. You choose a lot of obvious things like how it looks, how it runs on your machine and as is becoming the hinge point for many between OSes, what software you can use. If you bear with me I will break down these things a little so you can see where I am coming from and perhaps this will help you to either agree with me or rather show your distaste in my opinion. 
 
