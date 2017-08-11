@@ -1,10 +1,16 @@
 ---
 published: false
 ---
-### Intro
+#### Intro
 
-I should clarify that I mean Fedora with Gnome Version **3.24.2**.
+So this is something I been wanting to write for so long and have never had the time or the proper know-how. I am getting closer to that now and I want to start. This will be piece meal in the beginning as I try get myself writing everyday. 
 
-Currently I am testing if this is working nicely. I will write more soon, but it is currently supper time. 
+Moving from Mac to Linux as a whole has been something I have been yearning to do for ages, I think the first time I played with a Linux distro was back when I heard about Virtualbox in 2011. Up until then I had used Windows through school etc and it killed me. I always knew that computers could offer more but I am not clever enough to pursue too much all at once. Anyway, I got to university and had bought a Mac (Macbook Pro 7.1 mid 2010 - because details are nice) because I heard they are reliable and let's be honest right now, they are beautiful. Anyway, I will write some more on the whole hardware thing. So I realised after some time that Mac runs off a UNIX core and I didn't really know what that means (I still don't really). I knew that it meant that the core was somewhat similar to Linux and I felt better about my move. I figured that the closer I got to Linux and Open Source the better I'd feel. I love the Open Source concept and sharing. I think it completely progressive and that the world is sutpid to think we will make any real developments if we sit our own caves and make people pay to come in. I also believe that anyone should be able to use any piece of tech or knowledge or whatever in the world because possession is an illusion. However, we live in a world that doesn't listen to that motto so we as *open* peeps have to be careful and choose our friends wisely #jobsvsgates. To cut this shorter (@warning I am prone to excessive verbage - I expect comments to idicate that haha), I am now here, running my same Mac and I have taken the plunge into Linux completely. I realised in the middle of it several things which I will write more about, but two main ones: if you have your files like music and pictures, the OS doesn't actually matter; do not underestimate the CLI in Linux, it has got power daymn! 
 
-Adding something for a test.
+Just to give my post a general end goal, I want to show how nice the Fedora distro is running Gnome desktop environment and how you will really enjoy it if you are a user like me, coming from a Mac. I will explain more on what kind of user I am but in a nutshell, I use a computer for very general things like admin, browsing, office stuff, bit of image editing and publishing kind of stuff, through to a bit of hobbytronics and all in all I use it to get stuff done. I don't game and I don't do a lot of heavy graphics stuff either. I feel a computer should work nicely for you (this is both hardware and software of course) and that looking at it should be pleasant. Finally I want to address this thing of Open Source and how it eats me up inside when I am not using something that is free for everyone. I want to comment on how using great hardware coupled with great software leads to an end user experience that epitomises the modern interface between a human and a machine.
+
+To end off this intro I basically want to say that I hope you enjoy reading my musings on this change in my lifestyle, because I think a computer is part of your life. We communicate through them, we view information through them, and for many we rely on them. 
+
+#### Fedora as an OS with Gnome
+
+I should clarify that I mean __Fedora 26 workstation__ with Gnome Version **3.24.2**. 
