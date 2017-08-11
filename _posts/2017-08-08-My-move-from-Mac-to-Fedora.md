@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-My somewhat verbose blog entry on moving from MacOS to Fedora 26 with Gnome Desktop Environment. Touching on things that mattered but are small and what be described as niggles. 
+My somewhat verbose blog entry on moving from MacOS to Fedora 26 with the Gnome Desktop Environment. Touching on things that mattered to me but are small and what could be described as niggles. 
 
 ### Intro
 
