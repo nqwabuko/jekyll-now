@@ -56,10 +56,10 @@ For me this is area is very user based and if you are the type who relies and on
 - I use Gnome Music for listening to music, which is exactly like iTunes minus the store part and Spotify (there is great native app for Linux)
 - I use the Gnome terminal app for the CLI
 - I use LateXilla for LateX related stuff
-- I use Abicontrine for MarkDown related stuff, if I am not use Prose online
+- I use Abicrontine for MarkDown related stuff, if I am online, I use Prose
 - I use Shotwell to manage my photos, which is actually exactly like iPhoto
 - I use the nautilus file explorer that comes standard with Gnome, which is gorgeous and better than Finder I think
-- I use the pinch gesture on the touchpad to zoom out of apps and four finger pull or push to change workspaces and so apps if you set it up right
+- I use the pinch gesture on the touchpad to zoom out of apps and four finger pull or push to change workspaces and so apps, if you set it up right
 - I use Night shift for screen temperature management, it is in built in Gnome and ideal
 - I use the Libre suite for office stuff and it is great, special mention to Draw, it is brilliant
 - I use Krita and Inkscape for tablet and drawing stuff
